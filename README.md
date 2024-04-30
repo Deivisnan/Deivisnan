@@ -1,11 +1,10 @@
 <h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+Pessoal;Aqui+compartilharei+coisas;sobre+meu+trabalho!;Seja+bem+ vindo!&font=Fira%20Code&center=true&width=380&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7B71A&background=FF792800&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&height=70&lines=OL%C3%81+PESSOALl!;Aqui+adicionarei+coisas+;sobre+meu+trabalho;Seja+bem+vindo!!%F0%9F%98%83+" alt="Typing SVG" /></a>
 </p>
-<h1>
-  print("Olá Mundo!")
-    
-<img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="150" style="vertical-align: middle;">
+<h1>    
+<img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="150" style="vertical-align: middle;">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&pause=1000&color=7CF722&background=FF792800&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&height=70&lines=Print+(%22Hello+World%22)" alt="Typing SVG" /></a>
 </h1>
 
   Me chamo Deivisnan Bispo Atualmente aluno da UFBA, cursando Bi Ciências & tecnologias e também aluno do SENAI cursando  desenvolvimento sistemas, Apaixonado por tecnologia e suas funcionalidades sempre que posso estou buscando aprender mais para contribuir nesse mundo vasto e fanstastico dos códigos.
