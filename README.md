@@ -4,7 +4,7 @@
     <span> print("Olá galera!!")</span>
 </h1>
 
-  Me chamo Deivisnan Bispo Atualmente aluno da UFBA, cursando Bi Ciências & tecnologias e também aluno do SENAI cursando  desenvolvimento sistemas, Apaixonado por tecnologia e suas funcionalidades sempre que posso estou buscando aprender mais para contribuir nesse mundo vasto e fanstastico dos códigos. **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+  Me chamo Deivisnan Bispo Atualmente aluno da UFBA, cursando Bi Ciências & tecnologias e também aluno do SENAI cursando  desenvolvimento sistemas, Apaixonado por tecnologia e suas funcionalidades sempre que posso estou buscando aprender mais para contribuir nesse mundo vasto e fanstastico dos códigos.
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
