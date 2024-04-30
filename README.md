@@ -1,7 +1,10 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> print("Olá galera!!")</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+Pessoal;Aqui+compartilharei+coisas;sobre+meu+trabalho!;Seja+bem+ vindo!&font=Fira%20Code&center=true&width=380&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+<h1>
+  print("Olá Mundo!")
+    
 <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="150" style="vertical-align: middle;">
 </h1>
 
