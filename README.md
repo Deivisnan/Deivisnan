@@ -2,6 +2,7 @@
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> print("Olá galera!!")</span>
+<img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="150" style="vertical-align: middle;">
 </h1>
 
   Me chamo Deivisnan Bispo Atualmente aluno da UFBA, cursando Bi Ciências & tecnologias e também aluno do SENAI cursando  desenvolvimento sistemas, Apaixonado por tecnologia e suas funcionalidades sempre que posso estou buscando aprender mais para contribuir nesse mundo vasto e fanstastico dos códigos.
@@ -47,8 +48,8 @@ Me tornar melhor cada vez mais! aprimorando minhas habilidades e buscando novos 
 
 ---
 ## Detalhes
-![Anurag's GitHub stats](https://camo.githubusercontent.com/2d08c20f7b15d1b096f93debf159f6e5fb5b82f8ce61dd5efebb48fcc656b7b2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7261646963616c)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deivisnan&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF))  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deivisnan&theme=vision-friendly-dark_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ### Redes sociais
