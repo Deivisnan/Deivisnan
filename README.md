@@ -62,7 +62,7 @@ Me tornar melhor cada vez mais! aprimorando minhas habilidades e buscando novos 
 ### Redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivisnan-bispo-015545185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BAaEYUk3TqKAvwgXpXsDUg%3D%3D)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piecedeivis_14/)
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCM6la_eZ_z8tNa7JGmLOTUg)
 
 
 ## Contato
