@@ -7,8 +7,10 @@
 </p>
 <h1>    
 <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="150" style="vertical-align: middle;">  
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&pause=1000&color=7CF722&background=FF792800&center=false&vCenter=false&repeat=true&random=false&width=500&height=70&lines=Print+(%22Hello+World !!%22)" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?lines=Hello+World!;console.log('Hello+World');npm+install;git+push+origin+main;sudo+apt+update&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000&color=00FF00" alt="Typing animation for programmers">
+
+</p>
 </a>
 
 </h1>
