@@ -46,12 +46,16 @@ Me tornar melhor cada vez mais! aprimorando minhas habilidades e buscando novos 
     </tr>
   </thead>
   <tbody align="left">
-      <td>Bi-Ciencia & tecnologia </td>
+      <td> Graduado Bi-Ciencia & tecnologia </td>
       <td>UFBA</td>
     </tr>
     <tr>
-      <td>Desenvolvimento de Sistemas </td>
+      <td>Técnico em: Desenvolvimento de Sistemas </td>
       <td>SENAI</td>
+    </tr>
+  <tr>
+      <td>Estudante Sistemas de Informação </td>
+      <td>UFBA</td>
     </tr>
   </tbody>
 </table>
