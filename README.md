@@ -15,7 +15,7 @@
 
 </h1>
 
-  Me chamo Deivisnan Bispo Atualmente aluno da UFBA, cursando Bi Ciências & tecnologias e também aluno do SENAI cursando  desenvolvimento sistemas, Apaixonado por tecnologia e suas funcionalidades sempre que posso estou buscando aprender mais para contribuir nesse mundo vasto e fanstastico dos códigos.
+Deivisnan Bispo — formado em Ciência e Tecnologia pela UFBA, atualmente graduando em Sistemas de Informação. Técnico em Desenvolvimento de Sistemas pelo SENAI. Apaixonado por tecnologia e suas infinitas possibilidades, estou sempre em busca de novos aprendizados para contribuir com o vasto e fascinante mundo dos códigos.
 
 ## Objetivo
 Me tornar melhor cada vez mais! aprimorando minhas habilidades e buscando novos desafios.
